@@ -1,10 +1,10 @@
-# Olá, me chamo Gabriel! 
+# Olá, me chamo Gabriel! 🤔
 
 ## Sobre
 
-- Nascido e criado em Guarapari - ES, detentora das mais belas praias do Brasil! Entusiasta de tecnologia desde que me entendo por gente, amo resolver problemas complexos no trabalho. <br/>
-- Desenvolvedor Web Full-Stack pela Trybe, escola de tecnologia com mais de 1500 horas de formação em Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais. <br/>
-- Formado em Legal Studies pela Hillsborough Community College, Tampa - Florida. Tive a oportunidade de trabalhar e estudar por três anos nos Estados Unidos. <br/>
+- 🏖 Nascido e criado em Guarapari - ES, detentora das mais belas praias do Brasil! Entusiasta de tecnologia desde que me entendo por gente, amo resolver problemas complexos no trabalho. <br/>
+- 🧑‍💻 Desenvolvedor Web Full-Stack pela Trybe, escola de tecnologia com mais de 1500 horas de formação em Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais. <br/>
+- 👨‍🎓 Formado em Legal Studies pela Hillsborough Community College, Tampa - Florida. Tive a oportunidade de trabalhar e estudar por três anos nos Estados Unidos. <br/>
 
 
 # Stacks
